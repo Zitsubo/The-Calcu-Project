@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1715874423 source:/home/zitsubo/Desktop/my codes/The Calcu Project/main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<vector>
+	<algorithm>
+
