@@ -1,0 +1,1 @@
+This is a small project for my college in OOP course (sorry for my bad English idk how to say it) and it's an infinite calculator where you could write opertions as much as you can. its still under development but works like a charm:3 
